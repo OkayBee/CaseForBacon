@@ -1,0 +1,46 @@
+body {
+	margin: 0;
+}
+
+main {
+	width: 65%;
+	margin: auto;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1	{
+	color: #c70039;
+	font-size: 2rem;
+	font-weight: bold;
+	margin-top: 0;
+}
+
+p {
+	font-size: 1rem;
+	font-weight: normal;
+}
+
+div {
+	margin-top: 0;
+	background-color: #efb08c;
+	height: 10rem;
+	font-family: 'Noto Sans JP', sans-serif;
+	text-align: center;
+	position: relative;
+}
+
+#header {
+	color: #c70039;
+	font-size: 4rem;
+	font-weight: bolder;
+	padding: 30px;
+	line-height: 2;
+	-webkit-text-stroke-width: .5px;
+ 	-webkit-text-stroke-color: maroon;
+}
+
+.bacon {
+	position: relative;
+	left: 700px;
+	padding: 20px 0 0 0;
+}
