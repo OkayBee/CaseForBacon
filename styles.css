@@ -1,3 +1,4 @@
+
 body {
 	margin: 0;
 }
@@ -12,7 +13,7 @@ h1	{
 	color: #c70039;
 	font-size: 2rem;
 	font-weight: bold;
-	margin-top: 0;
+	margin-top: 80px;
 }
 
 p {
@@ -40,7 +41,11 @@ div {
 }
 
 .bacon {
-	position: relative;
-	left: 700px;
-	padding: 20px 0 0 0;
+	float: right;
+	padding: 30px;
+}
+
+.footer {
+	color: #EEF6f6;
+	font-weight: 600;
 }
